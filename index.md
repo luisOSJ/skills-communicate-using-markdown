@@ -6,3 +6,4 @@
 ###### <h6> noodles
 I changed the size of the texts, headings.
 uynvg
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
